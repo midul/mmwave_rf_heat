@@ -18,3 +18,8 @@ Document any errors
 Useful command:
 
 cp ../../../scripts.tar.gz . && tar -xvf scripts.tar.gz && ./script_run.sh
+
+tar cvzf scripts.tar.gz graph_gen.py graph_data.py script_run.sh parseTLV.py
+
+
+
