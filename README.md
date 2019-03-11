@@ -14,3 +14,7 @@ How to generate graphs for analysis:
 This shall generate the required PNG files. 
 
 Document any errors
+
+Useful command:
+
+cp ../../../scripts.tar.gz . && tar -xvf scripts.tar.gz && ./script_run.sh
